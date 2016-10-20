@@ -196,13 +196,13 @@ livestreamersrv.git;git://github.com/athoik/livestreamersrv
 orc-0.4.24.tar.xz;http://gstreamer.freedesktop.org/src/orc
 gmediarender-0.0.6.tar.bz2;http://savannah.nongnu.org/download/gmrender
 gst-plugins-dvbmediasink.git;git://github.com/christophecvr/gstreamer1.0-plugin-multibox-dvbmediasink.git
-gstreamer-1.8.2.tar.xz;http://gstreamer.freedesktop.org/src/gstreamer
-gst-plugins-base-1.8.2.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-base
-gst-plugins-good-1.8.2.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-good
-gst-plugins-bad-1.8.2.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-bad
-gst-plugins-ugly-1.8.2.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-ugly
+gstreamer-1.9.1.tar.xz;http://gstreamer.freedesktop.org/src/gstreamer
+gst-plugins-base-1.9.1.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-base
+gst-plugins-good-1.9.1.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-good
+gst-plugins-bad-1.9.1.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-bad
+gst-plugins-ugly-1.9.1.tar.xz;http://gstreamer.freedesktop.org/src/gst-plugins-ugly
 gst-fluendo-mpegdemux-0.10.71.tar.gz;http://core.fluendo.com/gstreamer/src/gst-fluendo-mpegdemux
-gst-libav-1.8.2.tar.xz;http://gstreamer.freedesktop.org/src/gst-libav
+gst-libav-1.9.1.tar.xz;http://gstreamer.freedesktop.org/src/gst-libav
 gst-plugin-subsink.git;git://github.com/christophecvr/gstreamer1.0-plugin-subsink.git
 
 #
